@@ -29,5 +29,4 @@ public class SpringBootThymeleafApplication implements ServletContextInitializer
         servletContext.addServlet("DemoServlet", new DemoServlet()).addMapping("/demo");
     }
 
-
 }*/
